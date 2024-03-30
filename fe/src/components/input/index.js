@@ -1,5 +1,5 @@
   const Input=()=>{
-    return(<div>input</div>)
+    return(<div>inpasdasdut</div>)
 
 }
 
